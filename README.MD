@@ -16,4 +16,4 @@
 * Проверил: ``Литвинов И.В.``
 
         $ Console.WriteLine("Hello,World!);
-        $ int num = 10;sssss
+        $ int double = 11.11;
